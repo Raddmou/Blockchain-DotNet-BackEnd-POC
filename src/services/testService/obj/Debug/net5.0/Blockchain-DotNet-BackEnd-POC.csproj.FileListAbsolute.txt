@@ -1,0 +1,7 @@
+C:\Users\mdmou\source\repos\Blockchain-DotNet-BackEnd-POC\src\services\testService\obj\Debug\net5.0\Blockchain-DotNet-BackEnd-POC.csproj.AssemblyReference.cache
+C:\Users\mdmou\source\repos\Blockchain-DotNet-BackEnd-POC\src\services\testService\obj\Debug\net5.0\Blockchain-DotNet-BackEnd-POC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmou\source\repos\Blockchain-DotNet-BackEnd-POC\src\services\testService\obj\Debug\net5.0\Blockchain-DotNet-BackEnd-POC.AssemblyInfoInputs.cache
+C:\Users\mdmou\source\repos\Blockchain-DotNet-BackEnd-POC\src\services\testService\obj\Debug\net5.0\Blockchain-DotNet-BackEnd-POC.AssemblyInfo.cs
+C:\Users\mdmou\source\repos\Blockchain-DotNet-BackEnd-POC\src\services\testService\obj\Debug\net5.0\Blockchain-DotNet-BackEnd-POC.csproj.CoreCompileInputs.cache
+C:\Users\mdmou\source\repos\Blockchain-DotNet-BackEnd-POC\src\services\testService\obj\Debug\net5.0\Blockchain-DotNet-BackEnd-POC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mdmou\source\repos\Blockchain-DotNet-BackEnd-POC\src\services\testService\obj\Debug\net5.0\Blockchain-DotNet-BackEnd-POC.MvcApplicationPartsAssemblyInfo.cache
